@@ -6,3 +6,11 @@ C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.
 C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
 C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
 C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb

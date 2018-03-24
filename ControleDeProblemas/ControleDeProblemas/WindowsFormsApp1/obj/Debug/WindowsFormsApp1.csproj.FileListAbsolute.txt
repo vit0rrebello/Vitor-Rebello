@@ -1,0 +1,14 @@
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Controle.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Entidade.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Controle.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Entidade.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

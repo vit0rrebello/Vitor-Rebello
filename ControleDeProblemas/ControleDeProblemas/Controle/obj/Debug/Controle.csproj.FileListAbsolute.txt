@@ -1,0 +1,8 @@
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\bin\Debug\Controle.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\bin\Debug\Controle.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\bin\Debug\Entidade.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\bin\Debug\Entidade.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\obj\Debug\Controle.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\Controle\obj\Debug\Controle.pdb

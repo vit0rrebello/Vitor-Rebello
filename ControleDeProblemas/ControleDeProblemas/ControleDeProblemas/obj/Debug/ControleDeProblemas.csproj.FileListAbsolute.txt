@@ -7,3 +7,12 @@ C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\Co
 C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csproj.CoreCompileInputs.cache
 C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.exe
 C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe.config
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.dll
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.pdb
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csprojResolveAssemblyReference.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csproj.CoreCompileInputs.cache
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.exe
+C:\Vitor Rebello\ControleDeProblemas\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.pdb
